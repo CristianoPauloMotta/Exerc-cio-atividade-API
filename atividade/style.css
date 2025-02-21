@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+.container {
+    max-width: 600px;
+}
+
+#weather-info {
+    transition: all 0.5s ease-in-out;
+    color: rgb(211, 207, 207);
+}
+
+.shadow-sm {
+    box-shadow: 0px 4px 6px rgba(248, 244, 244, 0.1);
+}
+.mb-4 {
+    color: wheat;
+}
